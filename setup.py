@@ -35,6 +35,7 @@ setup(
         "statsmodels==0.13.5",
         "toml==0.10.0",
         "zipp==3.15.0",
+        "setuptools==80.7.1"
     ],
     name="synthdid",
     author="D2CML Team, Alexander Quispe, Rodrigo  Grijalba, Jhon Flores, Franco Caceres",
