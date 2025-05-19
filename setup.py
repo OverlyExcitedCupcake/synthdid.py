@@ -24,7 +24,7 @@ setup(
         "packaging==23.0",
         "pandas==1.5.3",
         "patsy==0.5.3",
-        "pillow==9.4.0",
+        "pillow==10.4.0",
         "pipenv-setup==2.0.0",
         "pipfile==0.0.2",
         "pyparsing==3.0.9",
